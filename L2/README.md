@@ -42,4 +42,4 @@ Initial data inspection steps included:
 
 These steps were performed to gain a clear understanding of the dataset structure before proceeding to preprocessing and exploratory data analysis.
 
-📓 **Notebook:** Jupyter Notebook
+📓 **Notebook:** [Jupyter Notebook](JupyterDataset.ipynb)
