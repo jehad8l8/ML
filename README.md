@@ -1,2 +1,4 @@
-# ML
-repo for all labs
+## Machine Learning Course Labs
+Jehad Hassan AlZahrani
+6MY02
+
