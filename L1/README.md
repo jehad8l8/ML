@@ -1,3 +1,4 @@
-** Lab1
-I Learned How to Create an Account on githup, repo, branch, rename a repo, and how to push/pull.
+## Lab 1
+I learned how to create a GitHub account, repositories, branches, rename a repository, and how to push/pull.
+
 
