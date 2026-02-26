@@ -13,9 +13,9 @@ Section: **6MY02**
 - **Lab 01:** Git & GitHub Foundations
 - **Lab 02:** ML Problem Framing & Methodology
 - **Lab 03:** Data Understanding & Exploratory Data Analysis (EDA)
+- **Lab 04:** Data Quality Assessment & Preprocessing
 
 ### ⏳ In Progress / Upcoming
-- **Lab 04:** Data Quality Assessment & Preprocessing
 - **Lab 05:** Feature Engineering & Feature Impact
 - **Lab 06:** Regression Models (Linear & Logistic)
 - **Lab 07:** k-NN Models
