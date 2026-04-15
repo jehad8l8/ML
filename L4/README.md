@@ -1,4 +1,4 @@
-# 📊 Lab 04 – Data Preprocessing & PCA
+# 📊 Lab 04 – Data Quality Assessment & Preprocessing
 
 ## 📌 Overview
 
