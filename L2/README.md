@@ -1,4 +1,4 @@
-## Lab 02
+Lab 02: ML Problem Framing & Methodology
 
 ### 1. Dataset Selection
 - **Dataset Name:** House Prices Dataset (Ames Housing)
