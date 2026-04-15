@@ -1,4 +1,4 @@
-# 📊 Lab 03 – Exploratory Data Analysis (EDA)
+# 📊 Lab 03 – Data Understanding & Exploratory Data Analysis (EDA)
 
 ---
 
