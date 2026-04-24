@@ -18,9 +18,9 @@ Section: **6MY02**
 - **Lab 06:** Regression Models (Linear & Logistic)
 - **Lab 07:** k-NN Models
 - **Lab 08:** Decision Tree Models
+- **Lab 09:** Support Vector Machines (SVM)
 
 ### ⏳ In Progress / Upcoming
-- **Lab 09:** Support Vector Machines (SVM)
 - **Lab 10:** Model Comparison
 - **Lab 11:** MLOps (Ungraded)
 
