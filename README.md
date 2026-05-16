@@ -20,6 +20,7 @@ Section: **6MY02**
 - **Lab 08:** Decision Tree Models
 - **Lab 09:** Support Vector Machines (SVM)
 - **Lab 10:** Model Comparison
+- **Lab 11:** Credit Card Customer Segmentation with K-Means
 
 ### ⏳ In Progress / Upcoming
 
